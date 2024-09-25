@@ -68,17 +68,20 @@ Due to the small sample size, the model accuracy was 0.75 which is good accordin
 
 **Heatmap:** Shows expression differences between recurrent and primary cancer.
 
- ![][image1]
+![1](https://github.com/user-attachments/assets/b4dd09ba-df58-49fc-925f-d2e8ad8bdf5b)
+
 
 Figure 1: Heatmap for downregulated genes
 
-![][image2]
+![2](https://github.com/user-attachments/assets/7b75699d-cb57-4709-90fa-97f216a79fdc)
+
 
 Figure 2: Heatmap for upregulation
 
 **Volcano Plot:** Visualizes the significance and magnitude of gene expression changes. 
 
-![][image3]
+![3](https://github.com/user-attachments/assets/c4f29570-dcc8-4fce-85ac-228eb7cb908b)
+
 
 Figure 3: Volcano plot 
 
@@ -86,19 +89,22 @@ Figure 3: Volcano plot
 
 **Shiny GO**: analysis of key biological processes and pathways for differentially expressed genes in ovarian cancer. Highlight the functional significance of these genes.
 
-![][image4]
+![4](https://github.com/user-attachments/assets/f56a8b64-b5b5-41b0-ac94-c30c9dac96e0)
+
 
 Figure 4: downregulated gene top pathways 
 
-![][image5]
+![5](https://github.com/user-attachments/assets/fb0cfb9e-891d-45b8-8439-f642a6aa836b)
+
 
 Figure 5: downregulated gene top pathways chart 
 
-![][image6]
+![6](https://github.com/user-attachments/assets/d7082143-1d4c-44da-bb3e-d893262e04da)
 
 Figure 6: Upregulated gene top pathways 
 
-![][image7]
+![7](https://github.com/user-attachments/assets/1e0e867f-2930-4169-9fde-156a9afb2a0d)
+
 
 Figure 7: Upregulated gene top pathways chart 
 
